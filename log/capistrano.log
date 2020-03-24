@@ -62,3 +62,43 @@
   INFO ---------------------------------------------------------------------------
   INFO [18fe0a72] Running /usr/bin/env mkdir -p /tmp as cld2_11@938311.web13.swisscenter.com
  DEBUG [18fe0a72] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:35:13 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0e1210d7] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [0e1210d7] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:37:00 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7c2924a3] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [7c2924a3] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:37:58 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e381b9a3] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [e381b9a3] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:38:21 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7e5f0c1d] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [7e5f0c1d] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:39:06 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [3358e4cf] Running /usr/bin/env mkdir -p /tmp as cld2_11@938311.web13.swisscenter.com
+ DEBUG [3358e4cf] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:41:56 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [9802b07c] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [9802b07c] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:44:22 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2a3eb9e9] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [2a3eb9e9] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:46:14 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [4adeb6f2] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [4adeb6f2] Command: /usr/bin/env mkdir -p /tmp

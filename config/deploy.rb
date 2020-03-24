@@ -2,8 +2,7 @@
 lock "~> 3.12.1"
 
 set :application, "Picture-Galleries"
-set :repo_url, "git@github.com:Vidivanze/CLD2-Pictures-Gallery.git"
-
+set :repo_url, "git@github.com:Vidivanze/CLD2-Picture-Galleries.git"
 set :stages, ["staging", "production"]
 set :default_stage, "staging"
 

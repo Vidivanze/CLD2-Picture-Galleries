@@ -46,7 +46,7 @@ server "cld2_11@web13.swisscenter.com", user: "cld2_11"
 # Global options
 # --------------
   set :ssh_options, {
-    keys: %w(C:\Users\Yvann Butticaz\.ssh),
+    keys: %w(C:\Users\Yvann Butticaz\.ssh\swisscenter_ cld2_11_rsa),
     forward_agent: false,
     auth_methods: %w(publickey)
   }
