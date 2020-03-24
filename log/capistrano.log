@@ -102,3 +102,13 @@
   INFO ---------------------------------------------------------------------------
   INFO [4adeb6f2] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
  DEBUG [4adeb6f2] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 10:51:25 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [701f62d6] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [701f62d6] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2020-03-24 19:34:34 +0100 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [afd3847c] Running /usr/bin/env mkdir -p /tmp as cld2_11@web13.swisscenter.com
+ DEBUG [afd3847c] Command: /usr/bin/env mkdir -p /tmp
